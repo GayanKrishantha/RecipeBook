@@ -1,0 +1,14 @@
+"label.not_available" = "NA";
+"error.common" = "Error";
+"alert.ok" = "ok";
+"error.something_wrong" = "It seems something went wrong, please try again later.";
+"user_name" = "Hello, John";
+"title.main_header" = "What would you like to cook today?";
+"field.search" = "Search for recipes";
+"label.loading" = "Loading...";
+"label.like" = "Like";
+"label.mins" = "mins";
+"label.servings" = "servings";
+"label.Ingredients" = "Ingredients";
+"label.steps" = "Steps";
+"label.summary" = "Summary";

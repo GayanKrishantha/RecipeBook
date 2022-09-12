@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>6591c9ec92c2453da32212105c2004f4</string>
+	<key>API_BASE_URL</key>
+	<string>https://spoonacular.com</string>
+	<key>INGREDIENT_EXTENSION</key>
+	<string>/cdn/ingredients_100x100/</string>
+	<key>MAIN_INGREDIENT</key>
+	<string>beer</string>
+</dict>
+</plist>

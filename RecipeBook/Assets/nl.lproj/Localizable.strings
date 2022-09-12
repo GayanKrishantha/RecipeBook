@@ -1,0 +1,14 @@
+"navigation.title.recipes" = "Recipes";
+"error.common" = "Error";
+"alert.ok" = "ok";
+"error.something_wrong" = "Het lijkt erop dat er iets mis is gegaan, probeer het later opnieuw.";
+"user_name" = "Hallo, John";
+"title.main_header" = "Wat wil je vandaag koken?";
+"field.search" = "Recepten zoeken";
+"label.loading" = "laden...";
+"label.like" = "Leuk";
+"label.mins" = "mins";
+"label.servings" = "servings";
+"label.Ingredients" = "Ingrediënten";
+"label.steps" = "Steps";
+"label.summary" = "Summary";
